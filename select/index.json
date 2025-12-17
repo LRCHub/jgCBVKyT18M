@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Money Baby",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-17T08:47:18.301494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "K CAMP feat. Kwony Cash",
+      "has_synced": true,
+      "path": "select/01_Money_Baby_K_CAMP_feat._Kwony_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "K CAMP",
+      "has_synced": true,
+      "path": "select/02_Money_Baby_K_CAMP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "K CAMP feat. Kwony Ca$h",
+      "has_synced": true,
+      "path": "select/03_Money_Baby_K_CAMP_feat._Kwony_Ca$h.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Money Baby (feat. Kwony Ca$h)",
+      "artist": "K CAMP",
+      "has_synced": true,
+      "path": "select/04_Money_Baby_(feat._Kwony_Ca$h)_K_CAMP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "K CAMP/Kwony Ca$h",
+      "has_synced": true,
+      "path": "select/05_Money_Baby_K_CAMP_Kwony_Ca$h.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eddie Money - Baby Hold On",
+      "artist": "Eddie Money -",
+      "has_synced": true,
+      "path": "select/06_Eddie_Money_-_Baby_Hold_On_Eddie_Money_-.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "K Camp - Money Baby ft. Kwony Cash",
+      "artist": "K Camp",
+      "has_synced": true,
+      "path": "select/07_K_Camp_-_Money_Baby_ft._Kwony_Cash_K_Camp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "money baby",
+      "artist": "Swoopy",
+      "has_synced": false,
+      "path": "select/08_money_baby_Swoopy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "Kwony Cash",
+      "has_synced": true,
+      "path": "select/09_Money_Baby_Kwony_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "Josylvio",
+      "has_synced": false,
+      "path": "select/10_Money_Baby_Josylvio.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Money Baby (Dirty)",
+      "artist": "K Camp feat Kwony Cash",
+      "has_synced": true,
+      "path": "select/11_Money_Baby_(Dirty)_K_Camp_feat_Kwony_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Money Baby (Dirty)",
+      "artist": "K Camp fet Kwony Cash",
+      "has_synced": true,
+      "path": "select/12_Money_Baby_(Dirty)_K_Camp_fet_Kwony_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Money Baby (Radio Edit) XMIXR",
+      "artist": "K Camp ft Kwony Cash",
+      "has_synced": true,
+      "path": "select/13_Money_Baby_(Radio_Edit)_XMIXR_K_Camp_ft_Kwony_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Money Baby (feat․ Kwony Cash)",
+      "artist": "K Camp",
+      "has_synced": true,
+      "path": "select/14_Money_Baby_(feat._Kwony_Cash)_K_Camp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Money Baby ft. Kwony Cash",
+      "artist": "K Camp",
+      "has_synced": true,
+      "path": "select/15_Money_Baby_ft._Kwony_Cash_K_Camp.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Money Baby",
+      "artist": "K Camp",
+      "has_synced": true,
+      "path": "select/16_Money_Baby_K_Camp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Money Baby",
+      "artist": "KEIJU, Awich",
+      "has_synced": false,
+      "path": "select/pl_01_Money_Baby_KEIJU,_Awich.txt"
+    }
+  ]
+}
